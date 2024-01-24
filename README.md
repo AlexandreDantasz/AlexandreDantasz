@@ -1,6 +1,6 @@
 # Prazer, Eu sou o Alexandre Dantas!
 ## Sobre mim:
-- Sou desenvolvedor **Backend** e estou cursando ciência da computação!
+- Sou desenvolvedor **Back-end** e estou cursando ciência da computação!
 - Tenho como prioridade **desenvolver programas que sejam eficazes, eficientes e com boa manutenibilidade.**
 - Gosto de participar de **maratonas de programação.**
 - Sempre estou **aberto para novas opiniões** e para **compartilhar conhecimento com colegas de trabalho ou pessoas interessadas.**
