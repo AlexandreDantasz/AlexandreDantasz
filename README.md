@@ -8,6 +8,7 @@
 
 ![Estatísticas do Github](https://github-readme-stats.vercel.app/api?username=AlexandreDantasz&show_icons=true&theme=dark)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreDantasz&layout=compact&theme=dark&size_weight=0.5&count_weight=0.5&hide=C)
+![Códigos aceitos no UVA Online Judge](https://ale-uhuntcard-api.onrender.com/api/UhuntCard/ale.dnts)
 
 ## Tecnologias que mais tenho afinidade:
 
