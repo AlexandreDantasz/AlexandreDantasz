@@ -6,12 +6,11 @@ setor automotivo, do banco de dados à integração fiscal.
 
 ## O que eu faço
 
-- **ERPs multiempresa (matriz × filiais)**: vendas, ordens de serviço, estoque, financeiro/DRE
+- **ERPs multiempresa (matriz × filiais)**: vendas, ordens de serviço, estoque, financeiro
   e ponto eletrônico com banco de horas, com isolamento de dados por RLS no PostgreSQL.
-- **Integrações fiscais e financeiras**: emissão de NF-e e NFS-e via API (NFE.io), boletos e
-  cobrança, com webhooks e edge functions: valor financeiro só é gravado no servidor, nunca no navegador.
-- **Back-end .NET**: API e workers de notificação (e-mail/WhatsApp) para agendamento de entrega
-  de veículos, com EF Migrations e Docker.
+- **Integrações fiscais e financeiras**: emissão de NF-e e NFS-e via API, boletos e
+  cobrança, com webhooks.
+- **Back-end .NET**: API e workers de notificação (e-mail/WhatsApp) para agendamento de entregas, com EF Migrations e Docker.
 - **Automação interna** em Python/FastAPI para envio de notas e boletos aos clientes.
 
 ## Como eu trabalho
