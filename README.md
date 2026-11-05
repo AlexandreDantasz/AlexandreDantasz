@@ -1,6 +1,6 @@
 # Olá, eu sou o Alexandre Dantas 👋
 
-Desenvolvedor de software na **Smart Solutions** e estudante de **Ciência da Computação**.
+Estudante de **Ciência da Computação**.
 Construo e mantenho sistemas de gestão usados em produção por concessionárias e empresas do
 setor automotivo, do banco de dados à integração fiscal.
 
