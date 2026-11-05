@@ -39,7 +39,6 @@ setor automotivo, do banco de dados à integração fiscal.
 ## Estatísticas
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreDantasz&layout=compact&theme=dark&hide=C" alt="Linguagens mais usadas"/>
   <img height="165" src="https://github-readme-uhunt.onrender.com/api/UhuntCard/ale.dnts" alt="Problemas aceitos no UVa Online Judge"/>
 </p>
 
